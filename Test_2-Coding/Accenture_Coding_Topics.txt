@@ -1,0 +1,11 @@
+					CODING TOPICS FOR ACCENTURE
+
+1 - ARRAYS  (Level:Easy-Medium)
+2 - STRINGS (Level:Easy-Medium)
+3 - NUMBER SYSTEM AND CONVERSIONS  
+4 - SEARCHING
+5 - SORTING
+6 - STACKS (Level:Easy)
+7 - QUEUES (Level:Easy)
+8 - LINKEDLISTS (Level:Easy)
+9 - DP	(Level:Easy)

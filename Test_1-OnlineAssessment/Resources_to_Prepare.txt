@@ -1,0 +1,30 @@
+COGNITIVE
+
+I. VERBAL ABILITY
+
+1. IndiaBix   : https://www.indiabix.com/verbal-ability/questions-and-answers/
+2. FacePrep   : https://www.faceprep.in/verbal-ability/
+3. JavaTpoint : https://www.javatpoint.com/verbal-ability
+
+
+II. CRITICAL REASONING
+ 
+1. IndiaBix       : https://www.indiabix.com/logical-reasoning/analyzing-arguments/discussion-464
+2. GeeksforGeeks  : https://www.geeksforgeeks.org/logical-reasoning/
+3. FacePrep       : https://www.faceprep.in/verbal-ability/critical-reasoning-questions-methods/
+
+
+III. ABSTRACT REASONING
+
+1. IndiaBix       : https://www.indiabix.com/non-verbal-reasoning/questions-and-answers/
+2. FacePrep       : https://www.faceprep.in/accenture/accenture-abstract-reasoning-questions/
+
+
+
+
+
+TECHNICAL
+
+1. PsuedoCode : https://www.geeksforgeeks.org/quizzes/accenture-pseudocode-quiz-questions/
+2. MS Office  : https://prepinsta.com/accenture/technical-assessment/common-application-and-ms-office/
+3. N & CC     : #Will be updated Soon - Sohail.
